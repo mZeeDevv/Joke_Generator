@@ -16,7 +16,7 @@ joke_button.onclick = function(){
     "What do you call a sleeping bull?<br>A bulldozer!",
     "What do you get when you cross a snowman and a shark?<br>Frostbite!",
     "Why did the chicken cross the playground?<br>To get to the other slide!",
-    ""
+    "JavaScript Programmer be Like:- 'This is not working why?' <br>After few Minutes 'It is working.... why?'"
   ];
   let numbers = Math.floor(Math.random() * 10);
   let randomJoke = jokeAray[numbers];
