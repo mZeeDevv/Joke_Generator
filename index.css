@@ -68,6 +68,14 @@ h3 {
     background-color: rgb(35, 35, 143);
 }
 @media (max-width: 760px) {
+    .joke_area {
+        height: 50vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
     h3 {
         font-weight: 100;
         font-size: 14px;
