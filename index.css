@@ -75,7 +75,10 @@ h3 {
         justify-content: center;
         align-items: center;
     }
-    
+    h2 {
+        margin: 10px;
+        font-size: 17px;
+    }
     h3 {
         font-weight: 100;
         font-size: 14px;
@@ -98,7 +101,7 @@ h3 {
     .joke_head {
         padding: 10px 10px;
         padding-bottom: 0px;
-        width: 700px;
+        width: 300px;
         height: 40vh;
         border: 1px solid white;
         background-color: aliceblue;
